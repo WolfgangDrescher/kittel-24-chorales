@@ -14,7 +14,7 @@
 *met(c)	*	*met(c)	*	*met(c)	*	*met(c)	*	*met(c)	*	*met(c)	*	*met(c)	*	*met(c)	*	*met(c)
 *MM180	*	*MM180	*	*MM180	*	*MM180	*	*MM180	*	*MM180	*	*MM180	*	*MM180	*	*MM180
 =1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
-*	*	*	*	*	*	*	*	*G:	*	*G:	*	*G:	*	*G:	*	*G:
+*G:	*	*G:	*	*G:	*	*G:	*	*G:	*	*G:	*	*G:	*	*G:	*	*G:
 4GG	8_ 3_	4GG	8_ 3_	2GG	.	2r	.	2G	.	2B	6	2G	.	2GG	.	2g
 4G	X X	2G	X X	.	.	.	.	.	.	.	.	.	.	.	.	.
 4F#	6_	.	5_ 2_	2FF#	6	2r	.	2F#	6	2A	6	2F#	6	2D	.	2a
@@ -112,5 +112,5 @@
 !!!EED: Wolfgang Drescher
 !!!END: 2023/04/07
 !!!ENC: Wolfgang Drescher
-!!!END: 2023/04/13
+!!!END: 2023/04/18
 !!!title: @{ONM}. @{OTL@@DE}
